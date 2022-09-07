@@ -4,6 +4,7 @@ source: .
 incremental: false
 highlighter: rouge
 include: [mods/.index, mods, config, .index]
+show_dir_listing: false
 gist:
   noscript: false
 kramdown:
