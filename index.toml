@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".whitesource"
+hash = "e41e029d9f8a8bd0fa745a9ede64b2303860f6c9833b954fd992a99dae388b9f"
+
+[[files]]
+file = "README.md"
+hash = "e645e50330f641e1edc5058ee5e3de6b8643b8bec7e91e203a5cc1ccc5804c68"
+
+[[files]]
 file = "config/Building Gadgets.cfg"
 hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
 
@@ -4892,7 +4900,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "c11a0f9e6385edae33f25193b7bc02de12d7d4030f21aab457c80fdaf8c3943d"
+hash = "a9f8bd4c94cffdad76cfb06452e65d03b90c29b9875ffdb44b327cc111eb4880"
 metafile = true
 
 [[files]]
