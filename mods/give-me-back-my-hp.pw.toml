@@ -1,0 +1,13 @@
+name = "Give Me Back My HP"
+filename = "give-me-back-my-hp-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fd01b384da274ef002e388d1af269af4567f155"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3460723
+project-id = 527688

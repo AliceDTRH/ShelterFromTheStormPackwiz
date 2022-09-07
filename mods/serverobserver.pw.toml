@@ -1,0 +1,13 @@
+name = "ServerObserver"
+filename = "ServerObserver-1.12.2-1.0.8.41-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecc68c272dd166adb2e2a700d49fe7435aff189a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2656082
+project-id = 279375

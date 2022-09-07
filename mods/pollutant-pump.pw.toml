@@ -1,0 +1,13 @@
+name = "Pollutant Pump"
+filename = "pollutantpump-1.12.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e9a50d411ad23d6a42999c0bbdb87bcc442276e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3190007
+project-id = 305122

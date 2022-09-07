@@ -1,0 +1,14 @@
+name = "Armor Points ++ / Health Stacking"
+filename = "armorpointspp-forge-1.12.2-3.0.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/xvAim1vw/versions/3.0.3/armorpointspp-forge-1.12.2-3.0.3.jar"
+hash-format = "sha512"
+hash = "3a2337303c2b5ee745c4e6f743c705aa2916fca7a526ee3d32e3e162bb7c2be5e3dee386ab3fd125ad0422e6c89063f4969fcb9409e45d123081d372f9e39343"
+
+[update]
+[update.modrinth]
+mod-id = "xvAim1vw"
+version = "RsfhM7ap"

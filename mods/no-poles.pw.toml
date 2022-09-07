@@ -1,0 +1,13 @@
+name = "No Poles"
+filename = "nopoles-1.12.2-3.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1669b5be89c1761a71e524b3a2af906dccc691a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3037124
+project-id = 309538

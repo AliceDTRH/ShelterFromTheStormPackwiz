@@ -1,0 +1,14 @@
+name = "Dirt Deco"
+filename = "dirtdeco-1.12.2-1.6.7.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/p783iBKS/versions/1.6.7/dirtdeco-1.12.2-1.6.7.jar"
+hash-format = "sha512"
+hash = "0f756b55cbc8b5508d6844975a23d2406d1436372e6e05833fe194180154c22abb199e1782a1a297947d68c2af60f1a9fbb58fc1c36699580950f6d282f51e9f"
+
+[update]
+[update.modrinth]
+mod-id = "p783iBKS"
+version = "XUUtDlya"

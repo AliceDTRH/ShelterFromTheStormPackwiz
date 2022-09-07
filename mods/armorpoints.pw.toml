@@ -1,0 +1,13 @@
+name = "Armor Points ++ / Health Stacking"
+filename = "armorpointspp-forge-1.12.2-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76c805fe9b2a4723e49cb88e6bf91ade90d44692"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3809417
+project-id = 396094

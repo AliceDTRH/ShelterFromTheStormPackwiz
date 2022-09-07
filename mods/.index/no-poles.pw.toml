@@ -1,0 +1,14 @@
+name = "No Poles"
+filename = "nopoles-1.12.2-3.2.9.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2MqpRG19/versions/3.2.9/nopoles-1.12.2-3.2.9.jar"
+hash-format = "sha512"
+hash = "cf69cab9964bc97b52204479a1558071cffe2ae392fc296c593312b908d8d7adcefadefe747570916759d43c065b7a296241c59491124781342d480117fe3f59"
+
+[update]
+[update.modrinth]
+mod-id = "2MqpRG19"
+version = "hhmapLTN"

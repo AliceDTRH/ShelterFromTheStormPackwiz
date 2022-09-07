@@ -1,0 +1,14 @@
+name = "Dynamic Trees - Thaumcraft Compat"
+filename = "DynamicTreesTC-1.12.2-1.4.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d87ea63dad1c44b575c18806ab0876dbda0c5ca4"
+
+[update]
+[update.curseforge]
+file-id = 3053187
+project-id = 292752

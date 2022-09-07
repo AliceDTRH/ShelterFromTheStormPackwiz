@@ -1,0 +1,13 @@
+name = "Don't waste ores"
+filename = "strictharvest.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "28331544"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2747513
+project-id = 332011

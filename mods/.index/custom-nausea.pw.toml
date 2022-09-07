@@ -1,0 +1,14 @@
+name = "Custom Nausea (Forge) (Discontinued)"
+filename = "customnausea-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "9961302fccb424da26ad2e795828d006651a712d"
+
+[update]
+[update.curseforge]
+file-id = 2625862
+project-id = 304287

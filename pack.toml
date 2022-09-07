@@ -1,0 +1,13 @@
+name = "Shelter From The Storm"
+author = "AliceDTRH"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dfa85d4ae336371f23909adcffbc2f01c374913798dee8b73c84aab7d6190861"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

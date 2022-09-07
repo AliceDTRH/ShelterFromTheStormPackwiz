@@ -1,0 +1,14 @@
+name = "Millenaire"
+filename = "millenaire-8.1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5bf335f7ddfc9a22392400dc6ee626cda05fe3b5"
+
+[update]
+[update.curseforge]
+file-id = 3887515
+project-id = 270871

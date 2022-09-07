@@ -1,0 +1,14 @@
+name = "The Aether"
+filename = "aether-1.12.2-v1.5.3.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "71f0e3d9ca44dc4ea9b94b404d20f3852dbbfe76"
+
+[update]
+[update.curseforge]
+file-id = 3280119
+project-id = 255308

@@ -1,0 +1,13 @@
+name = "Dirt Deco"
+filename = "dirtdeco-1.12.2-1.6.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f17a090ad8728ad7732444a0735e60e16951c4cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2666988
+project-id = 296839

@@ -1,0 +1,14 @@
+name = "ServerSync"
+filename = "serversync-4.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a1a929038637a3430dc68c6dbc706eeb902e950d"
+
+[update]
+[update.curseforge]
+file-id = 3244454
+project-id = 231297

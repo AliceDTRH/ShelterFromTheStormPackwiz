@@ -1,0 +1,14 @@
+name = "Desired Servers"
+filename = "desiredservers-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/GDpe4LHD/versions/1.0.1/desiredservers-1.12.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "1954ade811dd00c1c2a2f3f3f23c03097bf250d9067295d54967095ac95395c6734b4113550c9fb440c8db715be969dc0425b553f3bbd66da85e6076a5ec4c96"
+
+[update]
+[update.modrinth]
+mod-id = "GDpe4LHD"
+version = "T04JbMwA"

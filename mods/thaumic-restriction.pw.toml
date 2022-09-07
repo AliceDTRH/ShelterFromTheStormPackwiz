@@ -1,0 +1,13 @@
+name = "Thaumic Restriction"
+filename = "ThaumicRestriction-1.12.2-2r.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f21b6b4dea9f0afec5f16631665ca6aed82bb64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2732653
+project-id = 324751

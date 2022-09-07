@@ -1,0 +1,14 @@
+name = "Waterproof 2: And This Time, It's Serious"
+filename = "waterproof2-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "fe5afb4adc7f10e750df3de4f2040cba27b70b23"
+
+[update]
+[update.curseforge]
+file-id = 2631455
+project-id = 305564

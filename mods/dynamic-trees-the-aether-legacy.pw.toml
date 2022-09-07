@@ -1,0 +1,13 @@
+name = "Dynamic Trees - The Aether Legacy"
+filename = "DynamicTreesTheAether-1.12.2-1.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2093e74bf3816312964546c64311994b34a652e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3813940
+project-id = 387443

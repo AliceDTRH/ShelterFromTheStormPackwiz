@@ -1,0 +1,13 @@
+name = "Desired Servers"
+filename = "desiredservers-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fd98e3c03f004fb5b0b3d23a28fe9eafb597f69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3233298
+project-id = 397292

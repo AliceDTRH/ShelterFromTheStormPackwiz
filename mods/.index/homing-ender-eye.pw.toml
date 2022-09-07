@@ -1,0 +1,14 @@
+name = "Homing Ender Eye"
+filename = "homing_ender_eye-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d3994e612d0168a6509f691ac1c470a47c10e180"
+
+[update]
+[update.curseforge]
+file-id = 3543090
+project-id = 544990

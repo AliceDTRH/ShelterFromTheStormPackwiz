@@ -1,0 +1,13 @@
+name = "Water Erosion"
+filename = "water-erosion-1.12.2-forge-1.1.1-beta1-full.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86ba527c0535f9a9658fe0e439c03b6772bd79ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2930508
+project-id = 358973
