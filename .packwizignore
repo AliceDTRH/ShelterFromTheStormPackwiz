@@ -1,0 +1,4 @@
+*.md
+.gitignore
+_config.yml
+.whitesource
