@@ -4261,6 +4261,10 @@ file = "config/xaeropatreon.txt"
 hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
+file = "modlist.txt"
+hash = "0602547b8d03923a7884673310f6ebe989283b0b6d1609e556369f73eb68e092"
+
+[[files]]
 file = "mods/.index/advanced-chimneys.pw.toml"
 hash = "ff06278ea49d2dbfd2e5fd8c807db80409d99a8616e7611be52aaa2341f3cfd0"
 metafile = true
@@ -5261,6 +5265,21 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+metafile = true
+
+[[files]]
+file = "mods/track-api.pw.toml"
+hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "69ed0f6ed8d757d25064c5177af2d7e397b4dcd7a2f8730f3aa29ec1203d3650"
+metafile = true
+
+[[files]]
+file = "mods/universal-mod-core.pw.toml"
+hash = "2c83c967888d9c46edb2e1191bc5c9e7760a4b290bd7c7dd346a923dd7b63735"
 metafile = true
 
 [[files]]
