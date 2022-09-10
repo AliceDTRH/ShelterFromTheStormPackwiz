@@ -4861,6 +4861,11 @@ hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
+metafile = true
+
+[[files]]
 file = "mods/clipboard.pw.toml"
 hash = "caeb9f8341f298f576c0b443dde51302ed347aedcc1aa60d2509667d68bbcc11"
 metafile = true
