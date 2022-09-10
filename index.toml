@@ -4261,10 +4261,6 @@ file = "config/xaeropatreon.txt"
 hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
-file = "modlist.txt"
-hash = "0602547b8d03923a7884673310f6ebe989283b0b6d1609e556369f73eb68e092"
-
-[[files]]
 file = "mods/.index/advanced-chimneys.pw.toml"
 hash = "ff06278ea49d2dbfd2e5fd8c807db80409d99a8616e7611be52aaa2341f3cfd0"
 metafile = true
