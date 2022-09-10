@@ -4781,6 +4781,11 @@ hash = "7ff0de96be3db1d73f5a93c38641f94686f45e5d63dbabb9fa35dc06de7a96ed"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "7f8f22566adbaedc1ed347290fcf50292578c4a16d246c5024a41798cdd9be09"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
 metafile = true
@@ -4838,6 +4843,11 @@ metafile = true
 [[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "632549542eb039887281a603cf4141f2dde6522d4c547d6ba7ea3fd2d88fbac1"
+metafile = true
+
+[[files]]
+file = "mods/born-in-a-barn.pw.toml"
+hash = "36c91e63beab5d3c889c036135ffcf0fb701cb79c71aa34ccd73833876173d92"
 metafile = true
 
 [[files]]
@@ -5006,6 +5016,11 @@ hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
 
 [[files]]
+file = "mods/immersive-electrocution.pw.toml"
+hash = "b244f0ce2667768945241a4defc1f6e1611eb039ace5704d989955ad6bd05466"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
@@ -5111,6 +5126,11 @@ metafile = true
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
 hash = "42060a7e15b44a3564210087663a0d918f10df4085f1048f0108f2565904fc8f"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "0edb73f5cabf289514e4de0deca57f031e74ec87c0291ea33e0e75190037959d"
 metafile = true
 
 [[files]]

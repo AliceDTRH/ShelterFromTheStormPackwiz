@@ -1,0 +1,13 @@
+name = "Immersive Electrocution"
+filename = "ImmersiveElectrocution-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2ef0fdfdad2d80e90c629b56d363f6ceeae9f6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3631473
+project-id = 574995
