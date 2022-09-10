@@ -197,6 +197,9 @@ Tinkers OreDict Cache
 Tinkers' Tool Leveling
 Tips
 Toast Control
+Track API
+U Team Core
+Universal Mod Core
 Water Erosion
 Waterproof 2: And This Time, It's Serious
 Waystones
