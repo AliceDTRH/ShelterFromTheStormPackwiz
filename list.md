@@ -1,0 +1,205 @@
+Advanced Chimneys
+Aether Continuation
+Aether: Lost Content
+The Aether
+Akashic Tome
+AppleCore
+AppleSkin
+Armor Points ++ / Health Stacking
+Armory Expansion
+AttributeFix
+AutoRegLib
+Bad Wither No Cookie - Reloaded
+Baubles
+Block Blocker
+Block Overlay Fix
+Blood Magic 
+Bountiful (Forge)
+Building Gadgets
+Clipboard
+CodeChicken Lib 1.8.+
+Console Filter
+Construct's Armory
+Cooking for Blockheads
+Custom Nausea (Forge) (Discontinued)
+Default Options
+Desired Servers
+Ding
+Dirt Deco
+Don't waste ores
+Dynamic Trees - Pam's Harvestcraft
+Dynamic Trees - Thaumcraft Compat
+Dynamic Trees - The Aether Legacy
+Dynamic Trees - Tinker's Construct
+Dynamic Trees
+Ender Mail
+Ender Storage 1.8.+
+Engineer's Doors
+Farming for Blockheads
+Farseek
+Foam​Fix
+ForgeEndertech
+Give Me Back My HP
+Guide-API
+Had Enough Items
+Hammer Lib
+Healer
+HelpFixer
+Homing Ender Eye
+Hwyla
+Immersive Engineering
+Just Enough Resources (JER)
+Let Me Despawn
+CensoredASM
+Lootr (Forge)
+Mantle
+Millenaire
+MixinBooter
+More Overlays
+Mouse Tweaks
+Moving Elevators
+MrCrayfish's Furniture Mod
+NetherPortalFix
+No Poles
+Pam's HarvestCraft
+Persistency
+Placebo
+Pollutant Pump
+Pollution of the Realms
+Rare Ice
+Realistic Terrain Generation - Unofficial
+Regrowth
+Save My Stronghold! (Forge)
+Security Craft
+ServerObserver
+ServerSync
+Shadowfacts' Forgelin
+ShadowMC
+Signpost
+Simply Light
+Spice of Life: Carrot Edition
+Streams
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+SwingThroughGrass
+Thaumcraft
+Thaumic JEI
+Thaumic Restriction
+Thaumic Speedup
+Tinkers' Aether: DMAN Edition
+Tinkers Construct
+Tinkers OreDict Cache
+Tinkers' Tool Leveling
+Tips
+Toast Control
+Water Erosion
+Waterproof 2: And This Time, It's Serious
+Waystones
+Xaero's Minimap
+YUNG's Better Caves (Forge)
+YUNG's Better Mineshafts (Forge)
+Advanced Chimneys
+Aether Continuation
+Aether: Lost Content
+The Aether
+AI Improvements
+Akashic Tome
+AppleCore
+AppleSkin
+Armor Points ++ / Health Stacking
+Armory Expansion
+AttributeFix
+AutoRegLib
+Bad Wither No Cookie - Reloaded
+Baubles
+Block Blocker
+Block Overlay Fix
+Blood Magic 
+Born in a Barn
+Bountiful (Forge)
+Building Gadgets
+Clipboard
+CodeChicken Lib 1.8.+
+Console Filter
+Construct's Armory
+Cooking for Blockheads
+Custom Nausea (Forge) (Discontinued)
+Default Options
+Desired Servers
+Ding
+Dirt Deco
+Don't waste ores
+Dynamic Trees - Pam's Harvestcraft
+Dynamic Trees - Thaumcraft Compat
+Dynamic Trees - The Aether Legacy
+Dynamic Trees - Tinker's Construct
+Dynamic Trees
+Ender Mail
+Ender Storage 1.8.+
+Engineer's Doors
+Farming for Blockheads
+Farseek
+Foam​Fix
+ForgeEndertech
+Give Me Back My HP
+Guide-API
+Had Enough Items
+Hammer Lib
+Healer
+HelpFixer
+Homing Ender Eye
+Hwyla
+Immersive Electrocution
+Immersive Engineering
+Just Enough Resources (JER)
+Let Me Despawn
+CensoredASM
+Lootr (Forge)
+Mantle
+Millenaire JEI
+Millenaire
+MixinBooter
+More Overlays
+Mouse Tweaks
+Moving Elevators
+MrCrayfish's Furniture Mod
+NetherPortalFix
+No Poles
+Pam's HarvestCraft
+Persistency
+Placebo
+Pollutant Pump
+Pollution of the Realms
+Railcraft
+Rare Ice (Forge/Fabric)
+Realistic Terrain Generation - Unofficial
+Regrowth
+Save My Stronghold! (Forge)
+Security Craft
+ServerObserver
+ServerSync
+Shadowfacts' Forgelin
+ShadowMC
+Signpost
+Simply Light
+Spice of Life: Carrot Edition
+Streams
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+SwingThroughGrass
+Thaumcraft
+Thaumic JEI
+Thaumic Restriction
+Thaumic Speedup
+Tinkers' Aether: DMAN Edition
+Tinkers Construct
+Tinkers OreDict Cache
+Tinkers' Tool Leveling
+Tips
+Toast Control
+Water Erosion
+Waterproof 2: And This Time, It's Serious
+Waystones
+Xaero's Minimap
+YUNG's Better Caves (Forge)
+YUNG's Better Mineshafts (Forge)
