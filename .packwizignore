@@ -3,3 +3,5 @@
 _config.yml
 .whitesource
 modlist.txt
+/mods/memory_repo/*
+/mods/memory_repo/

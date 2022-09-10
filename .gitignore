@@ -1,3 +1,5 @@
 *.m*rinth
 *.zip
 *.jar
+/mods/memory_repo/
+/mods/memory_repo/*
