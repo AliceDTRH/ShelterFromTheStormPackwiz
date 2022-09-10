@@ -4138,7 +4138,7 @@ hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
 
 [[files]]
 file = "config/rare-ice.properties"
-hash = "2b3f4c5d888a0e4828e4f8647a4ae7ee3b59909e271302c9bd8701f8f6b85618"
+hash = "271491c01d211d0d59332281d722c9125ed34107d690656660e60baf0a437c63"
 
 [[files]]
 file = "config/regrowth.cfg"
@@ -5044,6 +5044,11 @@ file = "mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveE
 hash = "1824ecdd0d6968fc0a9b78d2d19efc04b23786dc0eef2788bf57932265edf82c"
 
 [[files]]
+file = "mods/millenaire-jei.pw.toml"
+hash = "12d91b487403f9339d8761c2d0f932851921af1d7f7ace14374f8e7481bc7051"
+metafile = true
+
+[[files]]
 file = "mods/millenaire.pw.toml"
 hash = "12a37e7214852b669f5a98a6d4403121acc7dcc01df322cc53cdd9ac5240f367"
 metafile = true
@@ -5140,7 +5145,7 @@ metafile = true
 
 [[files]]
 file = "mods/serversync.pw.toml"
-hash = "f360cb02d99d69439063779ce6526264d326f578aa6d4249c85f7c2d490d364d"
+hash = "9f542d4f65e854a1f62589625a53f91e0b1e1834a4994ba9c79c667593bdd6f1"
 metafile = true
 
 [[files]]

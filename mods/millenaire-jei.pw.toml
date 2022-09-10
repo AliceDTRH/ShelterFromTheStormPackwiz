@@ -1,0 +1,13 @@
+name = "Millenaire JEI"
+filename = "millenairejei-1.12.2-1.0.0-beta001.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9LyZKUm5/versions/1.12.2-1.0.0/millenairejei-1.12.2-1.0.0-beta001.jar"
+hash-format = "sha1"
+hash = "3c191598baf7a3e97c863a133fa3edb7177dd420"
+
+[update]
+[update.modrinth]
+mod-id = "9LyZKUm5"
+version = "ddBKDFSB"
