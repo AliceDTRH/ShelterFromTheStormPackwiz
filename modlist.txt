@@ -123,6 +123,7 @@ CodeChicken Lib 1.8.+
 Console Filter
 Construct's Armory
 Cooking for Blockheads
+CraftTweaker
 Custom Nausea (Forge) (Discontinued)
 Default Options
 Desired Servers
@@ -151,6 +152,7 @@ Homing Ender Eye
 Hwyla
 Immersive Electrocution
 Immersive Engineering
+Infinite Pollution Filter
 Just Enough Resources (JER)
 Let Me Despawn
 CensoredASM

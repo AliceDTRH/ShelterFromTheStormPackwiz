@@ -4886,6 +4886,11 @@ hash = "c0292bc41b72c79485981eb9d641df6beeb71d6a565054f615508d698f2dd127"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f375c9acc7559bc0ccaac38a65470c40c4120211c2e53415b74c2cf4950c43e6"
+metafile = true
+
+[[files]]
 file = "mods/custom-nausea.pw.toml"
 hash = "76f5b6cb7594b12bb2a19a65330adf785a99ed9faca6c9d855b45f66af5d466e"
 metafile = true
@@ -5026,6 +5031,11 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
+file = "mods/infinite-pollution-filter.pw.toml"
+hash = "d7b669cf38d2c9c75a112b8cc47c7a9ea92b0b49526313793d55ed9051edef48"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "93bb7ceddd7ab173b75e6759f71b627bdf07bbee3e6d37dbdf2296c3d12e09f0"
 metafile = true
@@ -5049,14 +5059,6 @@ metafile = true
 file = "mods/mantle.pw.toml"
 hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
-
-[[files]]
-file = "mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar"
-hash = "a36f7fe0b2971df39bc7f14df3e5fb13695025a60d32b865e8f5c06659d552c2"
-
-[[files]]
-file = "mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar.meta"
-hash = "1824ecdd0d6968fc0a9b78d2d19efc04b23786dc0eef2788bf57932265edf82c"
 
 [[files]]
 file = "mods/millenaire-jei.pw.toml"

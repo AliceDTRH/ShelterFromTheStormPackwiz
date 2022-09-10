@@ -1,0 +1,13 @@
+name = "Infinite Pollution Filter"
+filename = "infilter-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bda09b99ac431de70554a93ec1acdc0579d3928"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2856159
+project-id = 322440
