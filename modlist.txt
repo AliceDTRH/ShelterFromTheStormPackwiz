@@ -175,6 +175,7 @@ Persistency
 Placebo
 Pollutant Pump
 Pollution of the Realms
+Quark
 Railcraft
 Rare Ice (Forge/Fabric)
 Realistic Terrain Generation - Unofficial

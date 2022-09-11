@@ -5146,6 +5146,11 @@ hash = "42060a7e15b44a3564210087663a0d918f10df4085f1048f0108f2565904fc8f"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+metafile = true
+
+[[files]]
 file = "mods/railcraft.pw.toml"
 hash = "408a04f11e5fe4450d5f2d5d52a9aa1cc309edb2eae7860bee1597bd9c36b01c"
 metafile = true
