@@ -4078,7 +4078,7 @@ hash = "538321a09096fa6e2a233615f5e9ad46e762d8b43b537f6171290aebf930a2eb"
 
 [[files]]
 file = "config/homing_ender_eye.cfg"
-hash = "2a6ede75f6614663e5715e2e9ff1f4cf8d42674e42ce7a5bae8558fc2853a8ad"
+hash = "aeea0cf193c55adb17e10edd75ba52cc8a2a11c7aab4c2bc0eac6fa3b75a4393"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
@@ -4135,6 +4135,10 @@ hash = "947a452055771f3c8550d3bea991b08785f455a0775482a785609e37f464e3fc"
 [[files]]
 file = "config/pollutantpump.cfg"
 hash = "5033763fe82bbbc95d5275a98777f07ca9c1f0b95278ec6c1778136175d56823"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "b977faf797185fbbbc9535f6879c12e03eb49cdde752f7337088943d3ed9860b"
 
 [[files]]
 file = "config/rare-ice.properties"
