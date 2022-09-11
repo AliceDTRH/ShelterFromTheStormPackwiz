@@ -4061,6 +4061,10 @@ file = "config/forgeendertech/forgeendertech.cfg"
 hash = "dd22baf804749c81ff79522566e5c7ce62439d459cccc2e8e03acbb66c521482"
 
 [[files]]
+file = "config/gravekeeper.yml"
+hash = "c0417f09c5808df4c4e5818801c7ea515ffc36133f2d1a85fcbad376e5b80660"
+
+[[files]]
 file = "config/hammercore.cfg"
 hash = "21e594e919a19d9f6b8c6f2f3dfbb90b0ced877fc09d0d07ce5471c2b4a660f9"
 
@@ -5333,3 +5337,7 @@ metafile = true
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
 hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
 metafile = true
+
+[[files]]
+file = "scripts/removed_recipes.zs"
+hash = "f4ee91c76bbb6dfff84f4e431aab292ec6084f81aa35adb6f7c8eaa4551b361d"
