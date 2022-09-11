@@ -112,6 +112,7 @@ AttributeFix
 AutoRegLib
 Bad Wither No Cookie - Reloaded
 Baubles
+BedBreakBegone
 Block Blocker
 Block Overlay Fix
 Blood Magic 
@@ -144,6 +145,7 @@ Farseek
 Foam​Fix
 ForgeEndertech
 Give Me Back My HP
+Grave Keeper
 Guide-API
 Had Enough Items
 Hammer Lib

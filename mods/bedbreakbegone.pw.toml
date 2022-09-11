@@ -1,0 +1,13 @@
+name = "BedBreakBegone"
+filename = "BedBreakBegone-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pZviNJw/versions/yyRYzqED/BedBreakBegone-1.0.1.jar"
+hash-format = "sha1"
+hash = "38cc15d5fd2214a803d3f010be13f49bd9afac80"
+
+[update]
+[update.modrinth]
+mod-id = "6pZviNJw"
+version = "yyRYzqED"

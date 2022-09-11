@@ -1,0 +1,13 @@
+name = "Grave Keeper"
+filename = "GraveKeeper-1.12.2-0.6.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P2u0jxmV/versions/1.12.2-0.6.1.1/GraveKeeper-1.12.2-0.6.1.1.jar"
+hash-format = "sha1"
+hash = "740f251fb27ceebd37826dcfb7b533ddc4afe7c1"
+
+[update]
+[update.modrinth]
+mod-id = "P2u0jxmV"
+version = "Ln2zl0br"
