@@ -4879,6 +4879,11 @@ hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
 metafile = true
 
 [[files]]
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
+metafile = true
+
+[[files]]
 file = "mods/clipboard.pw.toml"
 hash = "caeb9f8341f298f576c0b443dde51302ed347aedcc1aa60d2509667d68bbcc11"
 metafile = true
@@ -4939,6 +4944,11 @@ hash = "501e7c79b22a77a2b6b991b6e0319f2d14c4dcc31424787b6f26617a526bb56d"
 metafile = true
 
 [[files]]
+file = "mods/drawerfps-legacy.pw.toml"
+hash = "077e6b3f14fc0ad925340dd56513c78da86e410ce085a357f3ca61cee71fa78a"
+metafile = true
+
+[[files]]
 file = "mods/dtphc.pw.toml"
 hash = "3bf8c73951670419fba5b7e367aeb9c67054355fc83b058b009a4f4bebdee75b"
 metafile = true
@@ -4986,6 +4996,11 @@ metafile = true
 [[files]]
 file = "mods/farseek.pw.toml"
 hash = "fd631044375322659b95bfd6db3af47370e88f88ecadd54442ea3972109c5fd2"
+metafile = true
+
+[[files]]
+file = "mods/fluid-drawers.pw.toml"
+hash = "6f59b412881512ae1339649a4c46cb8406a4ca3d6b7b24705819324b6fd039e4"
 metafile = true
 
 [[files]]
@@ -5066,6 +5081,11 @@ metafile = true
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "59ef126579f6c818d025771565c18c54fd21999dddad08c31637b3c456b580c7"
+metafile = true
+
+[[files]]
+file = "mods/libnine.pw.toml"
+hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
 metafile = true
 
 [[files]]
@@ -5221,6 +5241,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "c7cc5deb2c40eab1824622a0d48a15e2aab18d967a935c8f4c0c5fc5fe80fa86"
 metafile = true
 
 [[files]]

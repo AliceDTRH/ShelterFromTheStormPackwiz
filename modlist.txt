@@ -120,6 +120,7 @@ Born in a Barn
 Bountiful (Forge)
 Building Gadgets
 CC: Tweaked
+Chameleon
 Clipboard
 CodeChicken Lib 1.8.+
 Console Filter
@@ -132,6 +133,7 @@ Desired Servers
 Ding
 Dirt Deco
 Don't waste ores
+DrawerFPS Legacy
 Dynamic Trees - Pam's Harvestcraft
 Dynamic Trees - Thaumcraft Compat
 Dynamic Trees - The Aether Legacy
@@ -142,6 +144,7 @@ Ender Storage 1.8.+
 Engineer's Doors
 Farming for Blockheads
 Farseek
+Fluid Drawers
 Foam​Fix
 ForgeEndertech
 Give Me Back My HP
@@ -158,6 +161,7 @@ Immersive Engineering
 Infinite Pollution Filter
 Just Enough Resources (JER)
 Let Me Despawn
+LibNine
 CensoredASM
 Lootr (Forge)
 Mantle
@@ -189,6 +193,7 @@ ShadowMC
 Signpost
 Simply Light
 Spice of Life: Carrot Edition
+Storage Drawers
 Streams
 SuperMartijn642's Config Lib
 SuperMartijn642's Core Lib
