@@ -5069,6 +5069,11 @@ hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
+file = "mods/impractical-storage.pw.toml"
+hash = "9b31d52bb87aaa9e7bc501b70a083bedf54113c060e34115187edb4c1d8b9d62"
+metafile = true
+
+[[files]]
 file = "mods/infinite-pollution-filter.pw.toml"
 hash = "d7b669cf38d2c9c75a112b8cc47c7a9ea92b0b49526313793d55ed9051edef48"
 metafile = true
