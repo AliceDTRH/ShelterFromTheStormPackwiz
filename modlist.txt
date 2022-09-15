@@ -113,6 +113,7 @@ AutoRegLib
 Bad Wither No Cookie - Reloaded
 Baubles
 BedBreakBegone
+Bigger Packets Please
 Block Blocker
 Block Overlay Fix
 Blood Magic 
@@ -159,6 +160,7 @@ Homing Ender Eye
 Hwyla
 Immersive Electrocution
 Immersive Engineering
+Impractical Storage
 Infinite Pollution Filter
 Just Enough Resources (JER)
 Let Me Despawn
