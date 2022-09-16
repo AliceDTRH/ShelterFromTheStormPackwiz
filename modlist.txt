@@ -160,7 +160,6 @@ Homing Ender Eye
 Hwyla
 Immersive Electrocution
 Immersive Engineering
-Impractical Storage
 Infinite Pollution Filter
 Just Enough Resources (JER)
 Let Me Despawn
