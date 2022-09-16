@@ -4154,7 +4154,7 @@ hash = "65b098ff3b716f5458e01722d99fd616de9df3255925910abf318a1cbefdbfb8"
 
 [[files]]
 file = "config/securitycraft.cfg"
-hash = "58e67ff577b9399ce5c22b51956056a29959d8c0851fbc885bec2bf558b23fa1"
+hash = "cefa01f8b318ece438940559b64c784fc399192dbb906a08a4088265286d37a7"
 
 [[files]]
 file = "config/serverobserver/serverobserver.cfg"
