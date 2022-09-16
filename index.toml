@@ -4110,7 +4110,7 @@ hash = "047cd00d92a1f69ee1f857cc7bb1a5d08a40cbdf81ddee8dc8a8fd00d5ce89d2"
 
 [[files]]
 file = "config/loliasm.cfg"
-hash = "4767ed48dc9dc9a0ec50dda517f8faa3359ec9b17291b7e1d340eb345a025974"
+hash = "a9988162638ab9aaad57564a37e6494574f606eb7d33575f1394e8c1482c77a6"
 
 [[files]]
 file = "config/loliasm/methods-stable_39.csv"
