@@ -184,6 +184,7 @@ Placebo
 Pollutant Pump
 Pollution of the Realms
 Project Red - Core
+Project Red - Integration
 Quark
 Railcraft
 Rare Ice (Forge/Fabric)
