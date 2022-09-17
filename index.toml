@@ -3953,6 +3953,10 @@ file = "config/codechickenlib.cfg"
 hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
 
 [[files]]
+file = "config/computercraft.cfg"
+hash = "dba522c20678cb337e905aea48dc1c6fc4f29865b13c2acf7d79018e49e4559f"
+
+[[files]]
 file = "config/conarm.cfg"
 hash = "c11584598e134465d55e2297f6a3d0e39ba30817c74a262788a091d1dc0b024f"
 
