@@ -1,6 +1,6 @@
 name = "Emojicord"
 filename = "Emojicord-1.12.2-1.1.1.39-universal.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
