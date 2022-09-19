@@ -141,6 +141,7 @@ Dynamic Trees - Thaumcraft Compat
 Dynamic Trees - The Aether Legacy
 Dynamic Trees - Tinker's Construct
 Dynamic Trees
+Emojicord
 Ender Mail
 Ender Storage 1.8.+
 Engineer's Doors

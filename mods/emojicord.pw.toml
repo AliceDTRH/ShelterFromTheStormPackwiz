@@ -1,0 +1,13 @@
+name = "Emojicord"
+filename = "Emojicord-1.12.2-1.1.1.39-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf29b6ca5260648c832473c84e2f0b69493931a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2972941
+project-id = 349107
