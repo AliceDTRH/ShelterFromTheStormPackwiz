@@ -1,3 +1,4 @@
+.tmp-modlist
 *.md
 .gitignore
 _config.yml

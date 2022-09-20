@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".tmp-modlist"
-hash = "f844e1ffb59e01da0a818a92c71dbbee9eacd806775624f44598d5dbcab8627c"
-
-[[files]]
 file = "config/Building Gadgets.cfg"
 hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
 
