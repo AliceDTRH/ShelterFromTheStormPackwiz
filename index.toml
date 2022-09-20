@@ -5108,11 +5108,6 @@ hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
 metafile = true
 
 [[files]]
-file = "mods/login-shield.pw.toml"
-hash = "4c2f1bcecd8d2666516ecc95baea839451e6c7821cb9b298689d3fdaeec0b3e1"
-metafile = true
-
-[[files]]
 file = "mods/lolasm.pw.toml"
 hash = "9506b5697596b313ef03a72fc044b318bae2d76a2b772ad374721bf89a63e1fd"
 metafile = true

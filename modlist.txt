@@ -65,7 +65,6 @@ Infinite Pollution Filter
 Just Enough Resources (JER)
 Let Me Despawn
 LibNine
-Login Shield
 Lootr (Forge)
 Mantle
 Millenaire
