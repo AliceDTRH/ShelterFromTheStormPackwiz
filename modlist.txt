@@ -1,107 +1,6 @@
 Advanced Chimneys
 Aether Continuation
 Aether: Lost Content
-The Aether
-Akashic Tome
-AppleCore
-AppleSkin
-Armor Points ++ / Health Stacking
-Armory Expansion
-AttributeFix
-AutoRegLib
-Bad Wither No Cookie - Reloaded
-Baubles
-Block Blocker
-Block Overlay Fix
-Blood Magic 
-Bountiful (Forge)
-Building Gadgets
-Clipboard
-CodeChicken Lib 1.8.+
-Console Filter
-Construct's Armory
-Cooking for Blockheads
-Custom Nausea (Forge) (Discontinued)
-Default Options
-Desired Servers
-Ding
-Dirt Deco
-Don't waste ores
-Dynamic Trees - Pam's Harvestcraft
-Dynamic Trees - Thaumcraft Compat
-Dynamic Trees - The Aether Legacy
-Dynamic Trees - Tinker's Construct
-Dynamic Trees
-Ender Mail
-Ender Storage 1.8.+
-Engineer's Doors
-Farming for Blockheads
-Farseek
-Foam​Fix
-ForgeEndertech
-Give Me Back My HP
-Guide-API
-Had Enough Items
-Hammer Lib
-Healer
-HelpFixer
-Homing Ender Eye
-Hwyla
-Immersive Engineering
-Just Enough Resources (JER)
-Let Me Despawn
-CensoredASM
-Lootr (Forge)
-Mantle
-Millenaire
-MixinBooter
-More Overlays
-Mouse Tweaks
-Moving Elevators
-MrCrayfish's Furniture Mod
-NetherPortalFix
-No Poles
-Pam's HarvestCraft
-Persistency
-Placebo
-Pollutant Pump
-Pollution of the Realms
-Rare Ice
-Realistic Terrain Generation - Unofficial
-Regrowth
-Save My Stronghold! (Forge)
-Security Craft
-ServerObserver
-ServerSync
-Shadowfacts' Forgelin
-ShadowMC
-Signpost
-Simply Light
-Spice of Life: Carrot Edition
-Streams
-SuperMartijn642's Config Lib
-SuperMartijn642's Core Lib
-SwingThroughGrass
-Thaumcraft
-Thaumic JEI
-Thaumic Restriction
-Thaumic Speedup
-Tinkers' Aether: DMAN Edition
-Tinkers Construct
-Tinkers OreDict Cache
-Tinkers' Tool Leveling
-Tips
-Toast Control
-Water Erosion
-Waterproof 2: And This Time, It's Serious
-Waystones
-Xaero's Minimap
-YUNG's Better Caves (Forge)
-YUNG's Better Mineshafts (Forge)
-Advanced Chimneys
-Aether Continuation
-Aether: Lost Content
-The Aether
 AI Improvements
 Akashic Tome
 AppleCore
@@ -122,6 +21,7 @@ Bountiful (Forge)
 Building Gadgets
 CB Multipart
 CC: Tweaked
+CensoredASM
 Chameleon
 Clipboard
 CodeChicken Lib 1.8.+
@@ -136,11 +36,11 @@ Ding
 Dirt Deco
 Don't waste ores
 DrawerFPS Legacy
+Dynamic Trees
 Dynamic Trees - Pam's Harvestcraft
 Dynamic Trees - Thaumcraft Compat
 Dynamic Trees - The Aether Legacy
 Dynamic Trees - Tinker's Construct
-Dynamic Trees
 Emojicord
 Ender Mail
 Ender Storage 1.8.+
@@ -165,11 +65,11 @@ Infinite Pollution Filter
 Just Enough Resources (JER)
 Let Me Despawn
 LibNine
-CensoredASM
+Login Shield
 Lootr (Forge)
 Mantle
-Millenaire JEI
 Millenaire
+Millenaire JEI
 MixinBooter
 More Overlays
 Mouse Tweaks
@@ -187,6 +87,7 @@ Project Red - Core
 Project Red - Integration
 Quark
 Railcraft
+Rare Ice
 Rare Ice (Forge/Fabric)
 Realistic Terrain Generation - Unofficial
 Regrowth
@@ -208,6 +109,7 @@ Thaumcraft
 Thaumic JEI
 Thaumic Restriction
 Thaumic Speedup
+The Aether
 Tinkers' Aether: DMAN Edition
 Tinkers Construct
 Tinkers OreDict Cache
@@ -215,8 +117,8 @@ Tinkers' Tool Leveling
 Tips
 Toast Control
 Track API
-U Team Core
 Universal Mod Core
+U Team Core
 Water Erosion
 Waterproof 2: And This Time, It's Serious
 Waystones

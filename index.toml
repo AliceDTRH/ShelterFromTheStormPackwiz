@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".tmp-modlist"
+hash = "f844e1ffb59e01da0a818a92c71dbbee9eacd806775624f44598d5dbcab8627c"
+
+[[files]]
 file = "config/Building Gadgets.cfg"
 hash = "23f1c16e597e9e85bf245c2d10dd1f047272447c3462fbfc3f57d399fc743d18"
 
@@ -5105,6 +5109,11 @@ metafile = true
 [[files]]
 file = "mods/libnine.pw.toml"
 hash = "64d6e39b5d51503a28f35961c1b507f19a74149342dcbb05521a9433d24596b8"
+metafile = true
+
+[[files]]
+file = "mods/login-shield.pw.toml"
+hash = "4c2f1bcecd8d2666516ecc95baea839451e6c7821cb9b298689d3fdaeec0b3e1"
 metafile = true
 
 [[files]]
