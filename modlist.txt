@@ -41,7 +41,6 @@ Dynamic Trees - Pam's Harvestcraft
 Dynamic Trees - Thaumcraft Compat
 Dynamic Trees - The Aether Legacy
 Dynamic Trees - Tinker's Construct
-Emojicord
 Ender Mail
 Ender Storage 1.8.+
 Engineer's Doors

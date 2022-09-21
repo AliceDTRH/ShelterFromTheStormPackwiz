@@ -4988,11 +4988,6 @@ hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
 metafile = true
 
 [[files]]
-file = "mods/emojicord.pw.toml"
-hash = "943b02a3d26aa7e4175ecea0a120640b5d0e09220254e2bb00fad70947d5285a"
-metafile = true
-
-[[files]]
 file = "mods/ender-mail.pw.toml"
 hash = "2666f438e66efc77f362c0b692ddf33b378d3a4a554b3ee6b83b30b13048e5a7"
 metafile = true
