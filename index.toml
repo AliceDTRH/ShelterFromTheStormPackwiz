@@ -3650,7 +3650,7 @@ hash = "892cb22b9444fe4a3527bd4583528fafe8ac39f83d664914300f75798ea1b681"
 
 [[files]]
 file = "config/adpother/Sources/hostile_mob_death.cfg"
-hash = "71fd6e02191123a0ea9c997d9ff65322c4fed8186b98497f3403408d0ad10c53"
+hash = "47e2de5fa86948e6da1dc98dc6c13a11c6c6802e420c0fc39759e80937ea87d0"
 
 [[files]]
 file = "config/adpother/Sources/lava_mixing_water.cfg"
