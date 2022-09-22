@@ -5223,6 +5223,11 @@ hash = "a45111580aace26c4201e402b5d0c70ee0d93048bf90c604d082faca8b22c1b2"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "e6ca5ffbd89acb16ca6bf18ce20df7e1e6dcba7420fa12988365ac139205ae34"
+metafile = true
+
+[[files]]
 file = "mods/regrowth.pw.toml"
 hash = "8ac5a19a65061eee7acca7adb0d6cc7587adeef9860a84403229caadd27243db"
 metafile = true
@@ -5284,12 +5289,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "d90c2d4bddf097f62aba762791a6fbf16d563faff4557ea3f22fa96c2d4cb7d8"
+hash = "6cb4a2fd1bd960b4e272457754a67c5792364e9c00ee93db84fbff355661a4b9"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "a6b7845c164c2fb0343bc1ad53c3b878d82d2186a175cd8a30d41c8863002b42"
+hash = "3197fecff76b36cb0663be021777a6be824720f071ee254d58df5f309914f061"
 metafile = true
 
 [[files]]
