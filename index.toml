@@ -4898,6 +4898,11 @@ hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
 
 [[files]]
+file = "mods/chest-transporter.pw.toml"
+hash = "96c8e9dedce3abe3214a9aa6fd70649775f6453778fdd9468ef079f675976c73"
+metafile = true
+
+[[files]]
 file = "mods/clipboard.pw.toml"
 hash = "caeb9f8341f298f576c0b443dde51302ed347aedcc1aa60d2509667d68bbcc11"
 metafile = true
