@@ -5193,6 +5193,11 @@ hash = "42060a7e15b44a3564210087663a0d918f10df4085f1048f0108f2565904fc8f"
 metafile = true
 
 [[files]]
+file = "mods/progressive-bosses.pw.toml"
+hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
+metafile = true
+
+[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "80a1afd5a26156aef0eeaedd9f19e881326bf40c087428b0d75240a63c33dd08"
 metafile = true
