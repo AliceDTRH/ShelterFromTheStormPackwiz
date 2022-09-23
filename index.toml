@@ -3902,7 +3902,7 @@ hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
 
 [[files]]
 file = "config/blockblocker.cfg"
-hash = "c1e08e37292923481e1a26d3e02808d222f648f49f51c385d77a92a997064800"
+hash = "c7a2ba71803b1d5f064c8b33c1f2fd8daaeb40a6ee855988aeca0df1fce23cbf"
 
 [[files]]
 file = "config/bloodmagic/bloodmagic.cfg"
