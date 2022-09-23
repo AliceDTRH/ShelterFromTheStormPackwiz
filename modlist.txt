@@ -26,6 +26,7 @@ Chameleon
 Chest Transporter
 Clipboard
 CodeChicken Lib 1.8.+
+Collective (Forge)
 Console Filter
 Construct's Armory
 Cooking for Blockheads
@@ -47,6 +48,7 @@ Ender Storage 1.8.+
 Engineer's Doors
 Farming for Blockheads
 Farseek
+Fixed Anvil Repair Cost (Forge)
 Fluid Drawers
 Foam​Fix
 ForgeEndertech

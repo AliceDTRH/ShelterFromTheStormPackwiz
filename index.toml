@@ -4913,6 +4913,11 @@ hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "2f032abefdc59f6946c9d1c5efd567d2c664c0c9ea4f427f62c6271bb25d66b4"
+metafile = true
+
+[[files]]
 file = "mods/console-filter.pw.toml"
 hash = "7f945594844c91c941d88c7521a53550e27957fe8a2b6f07985001a889a066e0"
 metafile = true
@@ -5015,6 +5020,11 @@ metafile = true
 [[files]]
 file = "mods/farseek.pw.toml"
 hash = "fd631044375322659b95bfd6db3af47370e88f88ecadd54442ea3972109c5fd2"
+metafile = true
+
+[[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "ad39b01200c0131925276a224e3a3e0ce4f42b7c68adc1bf7fffcac0596660a5"
 metafile = true
 
 [[files]]
