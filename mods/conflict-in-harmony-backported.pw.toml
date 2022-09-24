@@ -1,0 +1,13 @@
+name = "Conflict in Harmony Backported"
+filename = "cirback-1.0-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "3509911783"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3040289
+project-id = 404085

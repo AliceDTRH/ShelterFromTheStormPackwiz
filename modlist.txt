@@ -12,6 +12,7 @@ AutoRegLib
 Bad Wither No Cookie - Reloaded
 Baubles
 BedBreakBegone
+Better Than Mending
 Bigger Packets Please
 Block Blocker
 Block Overlay Fix
@@ -27,6 +28,7 @@ Chest Transporter
 Clipboard
 CodeChicken Lib 1.8.+
 Collective (Forge)
+Conflict in Harmony Backported
 Console Filter
 Construct's Armory
 Cooking for Blockheads
@@ -36,6 +38,7 @@ Default Options
 Desired Servers
 Ding
 Dirt Deco
+Disenchanter (The Disenchanter Mod)
 Don't waste ores
 DrawerFPS Legacy
 Dynamic Trees

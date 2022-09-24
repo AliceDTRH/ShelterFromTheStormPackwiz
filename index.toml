@@ -3638,7 +3638,7 @@ hash = "876a4b571b633102a300e260c8eaa711534489df55499199e3b37e1e04e9ab43"
 
 [[files]]
 file = "config/adpother/Sources/animal_death.cfg"
-hash = "06d6c4cfa4f22465714e19003639aee1715c59b7deff215b24af188e23079a72"
+hash = "f39c09e049bd240bb0204ee6d38d4b33ab2aa1c9821fe4957951244556c208e3"
 
 [[files]]
 file = "config/adpother/Sources/animal_feeding.cfg"
@@ -4848,6 +4848,11 @@ hash = "02c5ad4807defb13940753a23fedeceb03b1c802c246136bd3097da58007d222"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "9816a742885cbb74ea91d333240bb1e658f72e757c16d6ebeb690c7f8f45a4a2"
+metafile = true
+
+[[files]]
 file = "mods/bigger-packets-please.pw.toml"
 hash = "91e55f53e659f5371a27adf9614c1166f0f75a1ca658c6dc69e4cdffdd20f724"
 metafile = true
@@ -4915,6 +4920,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "2f032abefdc59f6946c9d1c5efd567d2c664c0c9ea4f427f62c6271bb25d66b4"
+metafile = true
+
+[[files]]
+file = "mods/conflict-in-harmony-backported.pw.toml"
+hash = "4d61a522bfdef9f7e3a14b9d788487bd01a01cb84ef09ddacddd842233b1fde0"
 metafile = true
 
 [[files]]
@@ -5340,6 +5350,11 @@ metafile = true
 [[files]]
 file = "mods/thaumic-speedup.pw.toml"
 hash = "43d41187b5758e6a85d7daa32840347bff58e6303ef559e07561512255e4da37"
+metafile = true
+
+[[files]]
+file = "mods/the-disenchanter-mod.pw.toml"
+hash = "38ce562a2f2adf0cf0965f2f627b1f06aac5635fa2fbab8a6511dcd343769047"
 metafile = true
 
 [[files]]
