@@ -4197,6 +4197,10 @@ file = "config/stg.cfg"
 hash = "65c14150a9a46a613ca6e1c22c4fba35658aaaf622b2ddddf9b5fbf6c5e2a81b"
 
 [[files]]
+file = "config/storagedrawers.cfg"
+hash = "411826927ab0381320fdb8945d0ed7006d4f5dc7772f7b69fe8c0a270496ca13"
+
+[[files]]
 file = "config/tconstruct.cfg"
 hash = "1fd587cc59ee05cca9438647e2e7c5730a1760dbd8666af360460d26c2470243"
 
@@ -4924,7 +4928,7 @@ metafile = true
 
 [[files]]
 file = "mods/conflict-in-harmony-backported.pw.toml"
-hash = "4d61a522bfdef9f7e3a14b9d788487bd01a01cb84ef09ddacddd842233b1fde0"
+hash = "9f765a829a4cab683d07272d63173d37497d1727451094496b12914faac43517"
 metafile = true
 
 [[files]]
