@@ -87,7 +87,7 @@ Persistency
 Placebo
 Pollutant Pump
 Pollution of the Realms
-progressive-bosses
+Progressive Bosses
 Project Red - Core
 Project Red - Integration
 Quark

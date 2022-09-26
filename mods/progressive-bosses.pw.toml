@@ -1,7 +1,13 @@
-name = "progressive-bosses"
+name = "Progressive Bosses"
 filename = "ProgressiveBosses-1.5.4-mc1.12.x.jar"
+side = "both"
 
 [download]
-url = "https://alicedtrh.thedev.id/ShelterFromTheStormPackwiz/custom/ProgressiveBosses-1.5.4-mc1.12.x.jar"
 hash-format = "sha1"
-hash = "88af90950df617b5c628a3b21582f2f11c75d1da"
+hash = "4fe89bb8a7eb3bf785899483710aad9c3ffbdf80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2821822
+project-id = 289466

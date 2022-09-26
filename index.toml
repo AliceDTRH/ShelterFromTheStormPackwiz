@@ -4277,14 +4277,6 @@ file = "config/xaeropatreon.txt"
 hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
-file = "custom/ProgressiveBosses-1.5.4-mc1.12.x.jar"
-hash = "7d534a585d5791d919d834d7e2836b1037df40bb3100893387675918a99e52ba"
-
-[[files]]
-file = "custom/empty"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/.index/advanced-chimneys.pw.toml"
 hash = "ff06278ea49d2dbfd2e5fd8c807db80409d99a8616e7611be52aaa2341f3cfd0"
 metafile = true
@@ -5231,7 +5223,7 @@ metafile = true
 
 [[files]]
 file = "mods/progressive-bosses.pw.toml"
-hash = "ac763d799bc20fe4515bbdd06f5d366553ea7c66478ed4c011b1b846e83e9b9f"
+hash = "409cf944f8ef185c60a0c8488b6167e38b919da27077eac370a8e99bac08d37e"
 metafile = true
 
 [[files]]
