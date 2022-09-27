@@ -4214,7 +4214,7 @@ hash = "3649e2802fa148467442462fb695ed4d0f324b74dff09548be32ed4a05651382"
 
 [[files]]
 file = "config/thaumcraft_world.cfg"
-hash = "ff9b0bdae29d41472ed55513617c3d78ba3940ec847bbc593695154e558d8a09"
+hash = "267c1defe5286c48b20125aa35741b1ce71ab23d9157b9ff19ec6edb4e444705"
 
 [[files]]
 file = "config/thaumicjei.cfg"
@@ -4275,6 +4275,10 @@ hash = "adebfacb5b5c9c6498d362b56291149a635376bf70e89cfbf1812ebf6b9d306e"
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+
+[[files]]
+file = "custom/empty"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/.index/advanced-chimneys.pw.toml"
