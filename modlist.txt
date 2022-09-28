@@ -97,6 +97,7 @@ Railcraft
 Rare Ice
 Rare Ice (Forge/Fabric)
 Realistic Terrain Generation - Unofficial
+Reborn Core
 Rechiseled
 Regrowth
 Save My Stronghold! (Forge)
@@ -106,6 +107,7 @@ ServerSync
 Shadowfacts' Forgelin
 ShadowMC
 Signpost
+Simple Void World
 Simply Light
 Spice of Life: Carrot Edition
 Storage Drawers

@@ -5271,6 +5271,11 @@ hash = "a45111580aace26c4201e402b5d0c70ee0d93048bf90c604d082faca8b22c1b2"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "e6ca5ffbd89acb16ca6bf18ce20df7e1e6dcba7420fa12988365ac139205ae34"
 metafile = true
@@ -5313,6 +5318,11 @@ metafile = true
 [[files]]
 file = "mods/signpost.pw.toml"
 hash = "63ae091935fd273ca934c61cc982fc4c46306b7ed23bab6f99f7f697a7a1a0db"
+metafile = true
+
+[[files]]
+file = "mods/simple-void-world.pw.toml"
+hash = "2b15f89daee29de2e07201d09fbf641e1d59ca08e0b5d3ada58373e7aae7887e"
 metafile = true
 
 [[files]]
