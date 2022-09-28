@@ -1845,6 +1845,18 @@ file = "config/adpother/Breakables/sulfur_ore.cfg"
 hash = "f32093c6ded408859e025df85f78d61204b6274448b72df48dfe73425e9cb71e"
 
 [[files]]
+file = "config/adpother/Breakables/taint_fibre.cfg"
+hash = "6732da167f14503faa2b18e3b78354e94300e0cb314a22945f2defc98e8c2379"
+
+[[files]]
+file = "config/adpother/Breakables/taint_rock.cfg"
+hash = "752eb6dc278f9ba388b4ac5b850eb86b6ea3abc18e8a4597647b134011ce11ee"
+
+[[files]]
+file = "config/adpother/Breakables/taint_soil.cfg"
+hash = "e7afe1e80012988cfdc6d1c40b49eba3ff80f03580002dfded01cd3926382b0b"
+
+[[files]]
 file = "config/adpother/Emitters/actuallyadditions$block_grinder$1.cfg"
 hash = "6ccd8d2ff0b5e156dfda95f338abb225440a162efa49caa0a2401057c06333c1"
 
