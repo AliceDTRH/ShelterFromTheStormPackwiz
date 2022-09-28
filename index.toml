@@ -5031,6 +5031,11 @@ hash = "08b5f8fc94a262879e96d04d848344be148fed9fa724853caab2e7abe391f759"
 metafile = true
 
 [[files]]
+file = "mods/fantastic-lib.pw.toml"
+hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
+metafile = true
+
+[[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "29485e844486f243f8d6b8b2428ee5b362295fde9d5ab00a6367d4402475c78b"
 metafile = true
@@ -5188,6 +5193,11 @@ metafile = true
 [[files]]
 file = "mods/mrtjpcore.pw.toml"
 hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
+metafile = true
+
+[[files]]
+file = "mods/nbt-manipulator.pw.toml"
+hash = "55489c6e714e7adf60f9c26836ca4653437b953870c658ac910e2b95e1955fd8"
 metafile = true
 
 [[files]]

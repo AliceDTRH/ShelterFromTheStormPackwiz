@@ -1,0 +1,13 @@
+name = "NBT Manipulator"
+filename = "NBTManipulator-1.12.2.006.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80f33298a17103cd53fe0ffc5f4df437e08e4cb5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3337766
+project-id = 356963

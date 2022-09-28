@@ -49,6 +49,7 @@ Dynamic Trees - Tinker's Construct
 Ender Mail
 Ender Storage 1.8.+
 Engineer's Doors
+Fantastic Lib
 Farming for Blockheads
 Farseek
 Fixed Anvil Repair Cost (Forge)
@@ -80,6 +81,7 @@ Mouse Tweaks
 Moving Elevators
 MrCrayfish's Furniture Mod
 MrTJPCore
+NBT Manipulator
 NetherPortalFix
 No Poles
 Pam's HarvestCraft
