@@ -67,6 +67,7 @@ Homing Ender Eye
 Hwyla
 Immersive Electrocution
 Immersive Engineering
+Immersive Petroleum
 Immersive Railroading
 Infinite Pollution Filter
 Just Enough Resources (JER)
