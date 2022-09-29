@@ -25,10 +25,12 @@ CC: Tweaked
 CensoredASM
 Chameleon
 Chest Transporter
+Chisel
 Clipboard
 CodeChicken Lib 1.8.+
 Collective (Forge)
 Conflict in Harmony Backported
+ConnectedTexturesMod
 Console Filter
 Construct's Armory
 Cooking for Blockheads

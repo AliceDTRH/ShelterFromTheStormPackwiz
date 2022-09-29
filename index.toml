@@ -4928,6 +4928,11 @@ hash = "96c8e9dedce3abe3214a9aa6fd70649775f6453778fdd9468ef079f675976c73"
 metafile = true
 
 [[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
 file = "mods/clipboard.pw.toml"
 hash = "caeb9f8341f298f576c0b443dde51302ed347aedcc1aa60d2509667d68bbcc11"
 metafile = true
@@ -4965,6 +4970,11 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "f375c9acc7559bc0ccaac38a65470c40c4120211c2e53415b74c2cf4950c43e6"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
