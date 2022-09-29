@@ -1,0 +1,18 @@
+name = "ReplayMod"
+filename = "replaymod-1.12.2-2.6.7.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Easily record things"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/1.12.2-2.6.7/replaymod-1.12.2-2.6.7.jar"
+hash-format = "sha1"
+hash = "bd75adaaada8106cd5a9c7ae13305f66b6fbc14b"
+
+[update]
+[update.modrinth]
+mod-id = "Nv2fQJo5"
+version = "sXD2DQ4C"
