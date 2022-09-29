@@ -1,0 +1,13 @@
+name = "Strata"
+filename = "Strata-1.12.2-2021.12.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UBAGpD5x/versions/1.12.2-2021.12.17/Strata-1.12.2-2021.12.17.jar"
+hash-format = "sha1"
+hash = "5ab38f2ad7004a78a8207f3122b25ccc4bc34b40"
+
+[update]
+[update.modrinth]
+mod-id = "UBAGpD5x"
+version = "8MMHhEZW"
