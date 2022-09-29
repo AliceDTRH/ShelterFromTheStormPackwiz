@@ -5318,6 +5318,11 @@ hash = "8ac5a19a65061eee7acca7adb0d6cc7587adeef9860a84403229caadd27243db"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "61b41b5376ddcf448187298d584a6bd90c80e79f0e153a49a5457e7441fe740e"
+metafile = true
+
+[[files]]
 file = "mods/save-my-stronghold.pw.toml"
 hash = "a83d95bf25429f9f1df5053f870bf6cd814006efd7773604a7070cc6eb415177"
 metafile = true

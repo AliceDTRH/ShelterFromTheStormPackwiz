@@ -104,6 +104,7 @@ Realistic Terrain Generation - Unofficial
 Reborn Core
 Rechiseled
 Regrowth
+ReplayMod
 Save My Stronghold! (Forge)
 Security Craft
 ServerObserver
