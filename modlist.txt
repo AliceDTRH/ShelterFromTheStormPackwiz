@@ -71,6 +71,7 @@ Immersive Engineering
 Immersive Petroleum
 Immersive Railroading
 Infinite Pollution Filter
+JustEnoughIDs
 Just Enough Resources (JER)
 Let Me Despawn
 LibNine

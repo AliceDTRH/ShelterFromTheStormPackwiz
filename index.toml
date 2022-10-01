@@ -5153,6 +5153,11 @@ hash = "d7b669cf38d2c9c75a112b8cc47c7a9ea92b0b49526313793d55ed9051edef48"
 metafile = true
 
 [[files]]
+file = "mods/jeid.pw.toml"
+hash = "03caa2eb930e892f0fe87adc97b2c36bd203afa3be7a38ffaefcc94d1fee887f"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "93bb7ceddd7ab173b75e6759f71b627bdf07bbee3e6d37dbdf2296c3d12e09f0"
 metafile = true
