@@ -4210,7 +4210,7 @@ hash = "65c14150a9a46a613ca6e1c22c4fba35658aaaf622b2ddddf9b5fbf6c5e2a81b"
 
 [[files]]
 file = "config/storagedrawers.cfg"
-hash = "411826927ab0381320fdb8945d0ed7006d4f5dc7772f7b69fe8c0a270496ca13"
+hash = "40de25e42fb4a52031c5c2e0024a0425361e85eb25283ad19015c7739c94ca03"
 
 [[files]]
 file = "config/tconstruct.cfg"
@@ -4913,11 +4913,6 @@ hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
-metafile = true
-
-[[files]]
 file = "mods/chameleon.pw.toml"
 hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
@@ -5250,6 +5245,11 @@ metafile = true
 [[files]]
 file = "mods/no-poles.pw.toml"
 hash = "308258d546c20c577c44e941e9c492e71410a40d5b2f1629b7c6e5b22c8f051f"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
 metafile = true
 
 [[files]]

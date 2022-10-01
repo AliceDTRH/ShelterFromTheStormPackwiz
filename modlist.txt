@@ -21,7 +21,6 @@ Born in a Barn
 Bountiful (Forge)
 Building Gadgets
 CB Multipart
-CC: Tweaked
 CensoredASM
 Chameleon
 Chest Transporter
@@ -90,6 +89,7 @@ Nature's Compass
 NBT Manipulator
 NetherPortalFix
 No Poles
+OpenComputers
 Pam's HarvestCraft
 Persistency
 Placebo
