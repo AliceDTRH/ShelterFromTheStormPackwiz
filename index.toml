@@ -5053,6 +5053,11 @@ hash = "08b5f8fc94a262879e96d04d848344be148fed9fa724853caab2e7abe391f759"
 metafile = true
 
 [[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "ae53b84ed0479947932b0f796e37ff3efc038d34674cefd2e7fb0d64ebd571dd"
+metafile = true
+
+[[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
 metafile = true
