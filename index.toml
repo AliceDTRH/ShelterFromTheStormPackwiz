@@ -5228,6 +5228,11 @@ hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
+metafile = true
+
+[[files]]
 file = "mods/nbt-manipulator.pw.toml"
 hash = "55489c6e714e7adf60f9c26836ca4653437b953870c658ac910e2b95e1955fd8"
 metafile = true
@@ -5319,7 +5324,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "61b41b5376ddcf448187298d584a6bd90c80e79f0e153a49a5457e7441fe740e"
+hash = "422952eab32aaa39b916a78d04d5bd452cd4cadf190a771ff1632d748e2f4c32"
 metafile = true
 
 [[files]]

@@ -85,6 +85,7 @@ Mouse Tweaks
 Moving Elevators
 MrCrayfish's Furniture Mod
 MrTJPCore
+Nature's Compass
 NBT Manipulator
 NetherPortalFix
 No Poles
