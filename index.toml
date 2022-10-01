@@ -5388,11 +5388,6 @@ hash = "c7cc5deb2c40eab1824622a0d48a15e2aab18d967a935c8f4c0c5fc5fe80fa86"
 metafile = true
 
 [[files]]
-file = "mods/strata.pw.toml"
-hash = "950732a12e77e5b5c0d9994074d45c69f8c74b36d3e01510eb6f53195f420ed8"
-metafile = true
-
-[[files]]
 file = "mods/streams.pw.toml"
 hash = "5705217fda4b2725d78d6dcefe5779dbcc5e457e0c09136e566e162702cee753"
 metafile = true

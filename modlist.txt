@@ -118,7 +118,6 @@ Simple Void World
 Simply Light
 Spice of Life: Carrot Edition
 Storage Drawers
-Strata
 Streams
 SuperMartijn642's Config Lib
 SuperMartijn642's Core Lib
