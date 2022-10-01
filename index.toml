@@ -5073,11 +5073,6 @@ hash = "ad39b01200c0131925276a224e3a3e0ce4f42b7c68adc1bf7fffcac0596660a5"
 metafile = true
 
 [[files]]
-file = "mods/fluid-drawers.pw.toml"
-hash = "6f59b412881512ae1339649a4c46cb8406a4ca3d6b7b24705819324b6fd039e4"
-metafile = true
-
-[[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "7977514914adf41c3dad0459b1ae4028bd7ed6832595ee12e16c334bea673292"
 metafile = true

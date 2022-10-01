@@ -55,7 +55,6 @@ Fantastic Lib
 Farming for Blockheads
 Farseek
 Fixed Anvil Repair Cost (Forge)
-Fluid Drawers
 Foam​Fix
 ForgeEndertech
 Give Me Back My HP
