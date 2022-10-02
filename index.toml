@@ -5248,6 +5248,11 @@ hash = "308258d546c20c577c44e941e9c492e71410a40d5b2f1629b7c6e5b22c8f051f"
 metafile = true
 
 [[files]]
+file = "mods/nuclearcraft-mod.pw.toml"
+hash = "d74658c8c2268a429c03ec21c33548f06394a16c00ef9814c94fdbd8273b51bd"
+metafile = true
+
+[[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
 metafile = true

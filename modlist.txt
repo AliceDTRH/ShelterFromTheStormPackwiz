@@ -89,6 +89,7 @@ Nature's Compass
 NBT Manipulator
 NetherPortalFix
 No Poles
+NuclearCraft
 OpenComputers
 Pam's HarvestCraft
 Persistency
