@@ -4161,6 +4161,10 @@ file = "config/quark.cfg"
 hash = "b977faf797185fbbbc9535f6879c12e03eb49cdde752f7337088943d3ed9860b"
 
 [[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "81e570fa64ab4a684e37d56aae09cc10723a0a53c318ab1830a235733e1fdae8"
+
+[[files]]
 file = "config/rare-ice.properties"
 hash = "271491c01d211d0d59332281d722c9125ed34107d690656660e60baf0a437c63"
 
