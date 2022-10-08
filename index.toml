@@ -5083,16 +5083,6 @@ hash = "7d83f4782137fcc91362cf0ca8ba2bb15fd42916df5ba1d7caf68d5d0e3f008a"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-legacy-forge.pw.toml"
-hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "957762b6d44988e01eda99f71ceac8642a81d1398a8842fa006fdf4a1646bcf7"
-metafile = true
-
-[[files]]
 file = "mods/give-me-back-my-hp.pw.toml"
 hash = "0da04fac143e1cef430d9f4fbe5542137b4beeec20153ed376c9f19c6016224f"
 metafile = true
@@ -5160,11 +5150,6 @@ metafile = true
 [[files]]
 file = "mods/infinite-pollution-filter.pw.toml"
 hash = "d7b669cf38d2c9c75a112b8cc47c7a9ea92b0b49526313793d55ed9051edef48"
-metafile = true
-
-[[files]]
-file = "mods/item-filters.pw.toml"
-hash = "34d15131bc2ade2772fc98488400018f26b8e2ad38dee94c0d98890bb29e6c9e"
 metafile = true
 
 [[files]]
@@ -5358,11 +5343,6 @@ hash = "a83d95bf25429f9f1df5053f870bf6cd814006efd7773604a7070cc6eb415177"
 metafile = true
 
 [[files]]
-file = "mods/secretroomsmod.pw.toml"
-hash = "59fd5585fa7e96074fc8d2cf5197a88175fc5ee5459375eddb166f08393a284c"
-metafile = true
-
-[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "2ce0e8aa11b3bad420629dfc93bf5a57f539f436a1443b8f253f16d76ef8ff43"
 metafile = true
@@ -5534,4 +5514,4 @@ metafile = true
 
 [[files]]
 file = "scripts/removed_recipes.zs"
-hash = "39f0e9373b814fab579d5f81adbbcd80cd5e21b8f88d228aa400b522f1d8a287"
+hash = "54ba32d0fd651bcb1ad49e66b8da25a3d2458dab37d19d3dc3d766d4ea40cd6f"

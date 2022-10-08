@@ -57,8 +57,6 @@ Farseek
 Fixed Anvil Repair Cost (Forge)
 Foam​Fix
 ForgeEndertech
-FTB Library (Forge) (Legacy)
-FTB Quests (Forge)
 Give Me Back My HP
 Grave Keeper
 Guide-API
@@ -73,7 +71,6 @@ Immersive Engineering
 Immersive Petroleum
 Immersive Railroading
 Infinite Pollution Filter
-Item Filters
 JustEnoughIDs
 Just Enough Resources (JER)
 Let Me Despawn
@@ -112,7 +109,6 @@ Rechiseled
 Regrowth
 ReplayMod
 Save My Stronghold! (Forge)
-SecretRoomsMod
 Security Craft
 ServerObserver
 ServerSync
