@@ -98,6 +98,8 @@ Pollutant Pump
 Pollution of the Realms
 Progressive Bosses
 Project Red - Core
+Project Red - Expansion
+Project Red - Fabrication
 Project Red - Integration
 Quark
 Railcraft

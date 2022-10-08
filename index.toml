@@ -5293,6 +5293,16 @@ hash = "80a1afd5a26156aef0eeaedd9f19e881326bf40c087428b0d75240a63c33dd08"
 metafile = true
 
 [[files]]
+file = "mods/project-red-expansion.pw.toml"
+hash = "c025482d5ec4ffd3d6ce8eb6d6ca124249abaf0ee1d81b8d62b47092758a07b1"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "5fa32c1398a3cfaeae452768d7bb396e441b50300e4332fa7ddabab62dd835ba"
+metafile = true
+
+[[files]]
 file = "mods/project-red-integration.pw.toml"
 hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
 metafile = true
@@ -5514,4 +5524,4 @@ metafile = true
 
 [[files]]
 file = "scripts/removed_recipes.zs"
-hash = "54ba32d0fd651bcb1ad49e66b8da25a3d2458dab37d19d3dc3d766d4ea40cd6f"
+hash = "39f0e9373b814fab579d5f81adbbcd80cd5e21b8f88d228aa400b522f1d8a287"
