@@ -7,4 +7,4 @@ recipes.remove(<tconstruct:throwball:1>);
 recipes.remove(<nuclearcraft:dominos>);
 recipes.addShapeless(<nuclearcraft:dominos> * 2, [<ore:toolCuttingboard>,<ore:foodSupremepizza>,<ore:foodPepperoni>,<ore:toolPot>,<ore:foodGroundchicken>,<ore:foodMushroomsteak>,<ore:foodPorksausage>,<ore:cropBellpepper>,<ore:foodGarlicbread>]);
 recipes.removeByMod("projectred-transportation");
-recipes.addShapeless(<ore:dustElectrotine>, [<ore:dyeLightBlue>,<ore:dustRedstone>]);
+recipes.addShapeless(<projectred-core:resource_item:105>, [<ore:dyeLightBlue>,<ore:dustRedstone>]);
