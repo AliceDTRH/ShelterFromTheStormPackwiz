@@ -1,0 +1,6 @@
+player_name=IWillWreckYou598
+donation_mode=false
+culture_reputation=byzantines,0
+culture_language=byzantines,2
+village_reputations=-113/66/388,2
+village_diplomacy=2954/71/-5553,5

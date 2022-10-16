@@ -1,0 +1,15 @@
+player_name=ADTK47
+donation_mode=false
+village_diplomacy=47/67/-1457,5
+village_diplomacy=224/65/-2048,5
+village_diplomacy=2954/71/-5553,5
+village_diplomacy=-2362/66/-82,5
+village_diplomacy=2858/75/-6144,5
+village_diplomacy=-718/72/101,5
+village_diplomacy=-505/74/-1040,5
+village_diplomacy=95/66/2023,5
+village_diplomacy=-1095/78/-384,5
+village_diplomacy=-193/74/1254,5
+village_diplomacy=-471/76/-3278,5
+village_diplomacy=475/68/-4889,5
+village_diplomacy=6016/73/-4930,5

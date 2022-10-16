@@ -1,0 +1,6 @@
+villager:byzantines_oldshepherd_byzantine
+village:byzantines_lonesheepfarm_x
+building:byzantines_oldsheepfarm
+tradegood:byzantines_wood
+tradegood:byzantines_cobblestone
+tradegood:byzantines_gold

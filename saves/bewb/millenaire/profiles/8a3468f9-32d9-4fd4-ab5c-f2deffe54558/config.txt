@@ -1,0 +1,5 @@
+player_name=TeQuiLa__
+donation_mode=false
+village_diplomacy=2954/71/-5553,5
+village_diplomacy=2858/75/-6144,5
+village_diplomacy=6016/73/-4930,5

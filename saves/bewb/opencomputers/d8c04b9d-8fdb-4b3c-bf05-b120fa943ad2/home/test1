@@ -1,0 +1,8 @@
+function overwhelming(lots)
+   print("this is "..lots.." times overwhelming")
+end
+
+overwhelming(9001)
+
+
+--not funny >:(

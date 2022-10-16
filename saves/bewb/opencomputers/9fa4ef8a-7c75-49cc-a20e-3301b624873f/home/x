@@ -1,0 +1,14 @@
+OpenPrograms Package Manager, use this to browse through and download OpenPrograms programs easily
+Usage:
+'oppm list [-i]' to get a list of all the available program packages
+'oppm list [-i] <filter>' to get a list of available packages containing the specified substring
+ -i: Only list already installed packages
+'oppm info <package>' to get further information about a program package
+'oppm install [-f] <package> [path]' to download a package to a directory on your system (or /usr by default)
+'oppm update <package>' to update an already installed package
+'oppm update all' to update every already installed package
+'oppm uninstall <package>' to remove a package from your system
+'oppm register <repository>' to register a package repository locally
+  Must be a valid GitHub repo containing programs.cfg
+'oppm unregister <repository>' to remove a package repository from your local registry
+ -f: Force creation of directories and overwriting of existing files.
